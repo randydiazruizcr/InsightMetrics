@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsightMetrics.API", "InsightMetrics.API\InsightMetrics.API.csproj", "{59C20616-39F5-484B-BABD-60740C21BD58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{5B08F597-5266-4C5F-B0CF-C931FDA6E17C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59C20616-39F5-484B-BABD-60740C21BD58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C20616-39F5-484B-BABD-60740C21BD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C20616-39F5-484B-BABD-60740C21BD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C20616-39F5-484B-BABD-60740C21BD58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B08F597-5266-4C5F-B0CF-C931FDA6E17C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B08F597-5266-4C5F-B0CF-C931FDA6E17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B08F597-5266-4C5F-B0CF-C931FDA6E17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B08F597-5266-4C5F-B0CF-C931FDA6E17C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7C87B97-1C64-4AA6-95BE-59E4580DD9D2}
+	EndGlobalSection
+EndGlobal

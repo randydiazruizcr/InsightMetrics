@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ForsyteIT.CosmosAPI.Core" Version="8.0.0.30" />
+    <PackageReference Include="ForsyteIT.CosmosAPI.Models.Core" Version="8.0.0.42" />
+    <PackageReference Include="ForsyteIT.Guardian" Version="8.0.0.21" />
+    <PackageReference Include="ForsyteIT.KeyVault.Core" Version="8.0.0.5" />
+    <PackageReference Include="ForsyteIT.LogConsole.Core" Version="8.0.0.3" />
+    <PackageReference Include="ForsyteIT.MicrosoftEndPoints.Core" Version="8.0.0.12" />
+  </ItemGroup>
+</Project>
